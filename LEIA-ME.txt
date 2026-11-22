@@ -1,0 +1,14 @@
+SISTEMA DE REGISTO ELETRONICO DE UTENTES (Questao 2)
+
+COMO ABRIR
+1. Extraia (Extract All) esta pasta ZIP para o ambiente de trabalho.
+2. Abra a pasta e faca duplo clique em RegistoUtentes.sln (Visual Studio 2015).
+3. Prima F5 para executar.
+
+CONTAS INICIAIS
+ admin       / admin123  (Administrador)
+ medico      / 1234      (Medico)
+ enfermeiro  / 2345      (Enfermeiro)
+ recepcao    / 3456      (Administrativo)
+
+Os dados ficam em RegistoUtentes\bin\Debug (utentes.txt, contas.txt, auditoria.txt).
